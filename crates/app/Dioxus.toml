@@ -1,0 +1,8 @@
+[application]
+name = "subkussion"
+
+[web.app]
+title = "Subkussion SB-1 · Bass Percussion Synthesizer"
+
+[web.watcher]
+watch_path = ["src", "assets", "../dsp/src", "../worklet/src"]

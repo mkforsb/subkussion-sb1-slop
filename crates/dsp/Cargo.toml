@@ -1,0 +1,8 @@
+[package]
+name = "subkussion-dsp"
+description = "DSP engine for Subkussion SB-1, a dual-channel bass percussion synthesizer"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
